@@ -1,3 +1,19 @@
+# v0.1.1 (Wed May 29 2024)
+
+#### 🐛 Bug Fix
+
+- Create inubekit/divider component and export it [#1](https://github.com/selsa-inube/inubekit-divider/pull/1) ([@cmarin001](https://github.com/cmarin001))
+
+#### ⚠️ Pushed to `main`
+
+- Initial commit ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v0.1.0 (Wed May 01 2024)
 
 #### 🚀 Enhancement
