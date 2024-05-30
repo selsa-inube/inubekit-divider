@@ -1,3 +1,15 @@
+# v0.2.0 (Thu May 30 2024)
+
+#### 🚀 Enhancement
+
+- Update `<Divider/>` to use semantic HTML. [#2](https://github.com/selsa-inube/inubekit-divider/pull/2) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v0.1.1 (Wed May 29 2024)
 
 #### 🐛 Bug Fix
