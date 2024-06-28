@@ -1,3 +1,15 @@
+# v0.3.0 (Fri Jun 28 2024)
+
+#### 🚀 Enhancement
+
+- Update Project Dependencies [#3](https://github.com/selsa-inube/inubekit-divider/pull/3) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v0.2.0 (Thu May 30 2024)
 
 #### 🚀 Enhancement
