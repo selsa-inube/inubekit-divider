@@ -1,3 +1,15 @@
+# v0.15.0 (Tue Sep 24 2024)
+
+#### 🚀 Enhancement
+
+- Move divider tokens from foundations to component [#15](https://github.com/selsa-inube/inubekit-divider/pull/15) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v0.14.0 (Mon Sep 02 2024)
 
 #### 🚀 Enhancement
