@@ -1,3 +1,15 @@
+# v0.16.0 (Tue Oct 01 2024)
+
+#### 🚀 Enhancement
+
+- Auto-merge PR [#16](https://github.com/selsa-inube/inubekit-divider/pull/16) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v0.15.0 (Tue Sep 24 2024)
 
 #### 🚀 Enhancement
